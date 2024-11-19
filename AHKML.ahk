@@ -32,6 +32,5 @@ SeeHtmlCode()
   else{
     MsgBox(html)
   }
-EditCode()
-  html = 
-  
+EditCode(&newHtml)
+  html = newHtml
